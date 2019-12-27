@@ -7,7 +7,7 @@ public class Calculadora {
 		return a+b;
 	}
 	
-	public double resta(double a, double b)
+	/*public double resta(double a, double b)
 	{
 		return a-b;
 	}
@@ -20,5 +20,5 @@ public class Calculadora {
 	public double divide(double a, double b)
 	{
 		return a/b;
-	}
+	}*/
 }
