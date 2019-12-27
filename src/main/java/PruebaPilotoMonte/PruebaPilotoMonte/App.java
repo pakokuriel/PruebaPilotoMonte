@@ -16,7 +16,7 @@ public class App
         System.out.println( "El resultado de la suma es: " + resultadoSuma );
         
         
-        double resultadoResta = calculadora.resta(10, 5);
+       /* double resultadoResta = calculadora.resta(10, 5);
         System.out.println("El resultado de la resta es: " + resultadoResta);
         
         double resultadoMultiplicacion = calculadora.multiplica(10, 5);
@@ -24,7 +24,7 @@ public class App
         
         double resultadoDivision = calculadora.divide(10, 5);
         System.out.println("El resultado de la división es: " + resultadoDivision);
-        
+        */
         
     }
 }
