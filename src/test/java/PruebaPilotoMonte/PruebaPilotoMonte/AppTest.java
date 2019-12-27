@@ -47,5 +47,16 @@ public class AppTest
 		assertEquals(resultadoEsperado, calc.suma(a, b), 0);
 		
 	}
+	
+	public void testResta()
+	{
+		Calculadora calc= new Calculadora();
+		double a= 5;
+		double b = 2;
+		double resultadoEsperado = 3;
+		
+		assertEquals(resultadoEsperado, calc.resta(a, b), 0);
+	}
+	}
 
 }
