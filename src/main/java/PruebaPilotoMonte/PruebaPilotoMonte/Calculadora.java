@@ -9,11 +9,12 @@ public class Calculadora {
 		return res;
 	}
 	
-	/*public double resta(double a, double b)
+	public double resta(double a, double b)
 	{
-		return a-b;
+		double res= a-b;
+		return res;
 	}
-	
+	/*
 	public double multiplica (double a, double b)
 	{
 		return a*b;
