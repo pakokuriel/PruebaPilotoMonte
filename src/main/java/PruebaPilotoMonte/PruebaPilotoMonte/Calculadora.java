@@ -1,10 +1,12 @@
 package PruebaPilotoMonte.PruebaPilotoMonte;
 
+
 public class Calculadora {
 
 	public double suma(double a, double b)
 	{
-		return a+b;
+		double res = a+b;
+		return res;
 	}
 	
 	/*public double resta(double a, double b)
