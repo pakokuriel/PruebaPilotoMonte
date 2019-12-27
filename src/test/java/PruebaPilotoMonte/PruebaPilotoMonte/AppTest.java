@@ -1,6 +1,5 @@
 package PruebaPilotoMonte.PruebaPilotoMonte;
 
-import static org.junit.Assert.assertEquals;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

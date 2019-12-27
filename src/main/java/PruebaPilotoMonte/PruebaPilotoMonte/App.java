@@ -12,9 +12,9 @@ public class App
         
         Calculadora calculadora = new Calculadora();
         
-        double resultadoSuma = calculadora.suma(10, 10);
+        /*double resultadoSuma = calculadora.suma(10, 10);
         System.out.println( "El resultado de la suma es: " + resultadoSuma );
-        
+        */
         
        /* double resultadoResta = calculadora.resta(10, 5);
         System.out.println("El resultado de la resta es: " + resultadoResta);

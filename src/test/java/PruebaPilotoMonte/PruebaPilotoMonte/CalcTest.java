@@ -2,11 +2,11 @@ package PruebaPilotoMonte.PruebaPilotoMonte;
 
 import static org.junit.Assert.*;
 
-import org.junit.Test;
+
 
 public class CalcTest {
 
-	@Test
+	
 	public void testSuma() {
 		Calculadora calc= new Calculadora();
 		double a = 10;
