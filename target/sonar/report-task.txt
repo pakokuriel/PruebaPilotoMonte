@@ -2,5 +2,5 @@ projectKey=PruebaPilotoMonte:PruebaPilotoMonte
 serverUrl=http://localhost:9000
 serverVersion=7.6.0.21501
 dashboardUrl=http://localhost:9000/dashboard?id=PruebaPilotoMonte%3APruebaPilotoMonte
-ceTaskId=AW-r368O9BaYx2V4vfLJ
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AW-r368O9BaYx2V4vfLJ
+ceTaskId=AW-yi0gX8enibTgtN1-w
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW-yi0gX8enibTgtN1-w

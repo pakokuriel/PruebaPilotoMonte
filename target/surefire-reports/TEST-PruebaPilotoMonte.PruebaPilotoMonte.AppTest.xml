@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="3" failures="0" name="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" time="0.008" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
@@ -65,7 +65,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" name="testResta" time="0.008"/>
+  <testcase classname="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" name="testResta" time="0.005"/>
   <testcase classname="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" name="testApp" time="0"/>
   <testcase classname="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" name="testSuma" time="0"/>
+  <testcase classname="PruebaPilotoMonte.PruebaPilotoMonte.AppTest" name="testMultiplica" time="0"/>
 </testsuite>

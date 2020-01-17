@@ -58,5 +58,15 @@ public class AppTest
 		assertEquals(resultadoEsperado, calc.resta(a, b), 0);
 	}
 	
+	public void testMultiplica()
+	{
+		Calculadora calc= new Calculadora();
+		double a= 5;
+		double b = 2;
+		double resultadoEsperado = 10;
+		
+		assertEquals(resultadoEsperado, calc.multiplica(a, b), 0);
+	}
+	
 
 }
