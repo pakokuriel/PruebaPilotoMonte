@@ -1,5 +1,5 @@
 eclipse.preferences.version=1
-extraProperties=
+extraProperties=sonar.host.url\=http\://localhost\:9000
 projectKey=PruebaPilotoMonte\:PruebaPilotoMonte
 serverUrl=http\://localhost\:9000
 version=2
