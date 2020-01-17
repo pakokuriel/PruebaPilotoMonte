@@ -15,7 +15,7 @@ public class Calculadora {
 		return res;
 	}
 
-	/*public double multiplica (double a, double b)
+	public double multiplica (double a, double b)
 	{
 		return a*b;
 	}
@@ -23,5 +23,5 @@ public class Calculadora {
 	public double divide(double a, double b)
 	{
 		return a/b;
-	}*/
+	}
 }
